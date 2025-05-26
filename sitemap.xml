@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ecworknow.com/posts/my-first-post/</loc>
-    <lastmod>2025-05-25T19:50:23-04:00</lastmod>
+    <loc>https://ecworknow.com/posts/my-second-post/</loc>
+    <lastmod>2025-05-25T20:29:56-04:00</lastmod>
   </url><url>
     <loc>https://ecworknow.com/posts/</loc>
-    <lastmod>2025-05-25T19:50:23-04:00</lastmod>
+    <lastmod>2025-05-25T20:29:56-04:00</lastmod>
   </url><url>
     <loc>https://ecworknow.com/</loc>
+    <lastmod>2025-05-25T20:29:56-04:00</lastmod>
+  </url><url>
+    <loc>https://ecworknow.com/posts/my-first-post/</loc>
     <lastmod>2025-05-25T19:50:23-04:00</lastmod>
   </url><url>
     <loc>https://ecworknow.com/categories/</loc>
