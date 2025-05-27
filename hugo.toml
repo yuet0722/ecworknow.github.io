@@ -1,0 +1,4 @@
+theme = "ananke"
+baseURL = "https://ecworknow.com/"
+languageCode = "zh-cn"
+title = "我的新 Hugo 網站"
